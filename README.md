@@ -9,7 +9,7 @@ Welcome to the **Greek Mythology Quiz**, an interactive and engaging web-based q
 - **Shuffled Answer Options:** The order of answers changes every time for a fresh challenge.  
 - **Immediate Feedback:** Correct answers are highlighted in **blue** (`#006BBD`) and incorrect answers in **red** (`#db8270`).  
 - **Score Tracking:** Displays your score at the end of the quiz.  
-- **Answer Review:** Users can see which answers they selected versus the correct ones.  
+- **Ranking System:** Assigns a user a rank based on score.  
 - **Restart Quiz:** Try a new set of random questions with one click.  
 - **Start Screen with Full-Width Image:** Eye-catching design to welcome users.  
 - **Custom Color Scheme & Styling:**  
